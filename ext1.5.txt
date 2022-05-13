@@ -1,0 +1,5 @@
+Secret message is: 'You can find the source code here: https://github.com/docker-hy'
+Commands I ran were:
+docker run -d devopsdockeruh/simple-web-service:alpine
+docker exec -it ee sh
+cat text.log
